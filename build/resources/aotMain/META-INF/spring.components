@@ -1,0 +1,8 @@
+#
+#Wed Oct 19 20:10:46 BOT 2022
+com.example.demo.Demo2Application=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+com.example.demo.service.EstudianteService=org.springframework.stereotype.Component
+com.example.demo.controller.EstudianteController=org.springframework.stereotype.Component
+com.example.demo.controller.DefaultController=org.springframework.stereotype.Component
+com.example.demo.model.Estudiante=javax.persistence.Entity
+com.example.demo.repository.EstudianteRepository=org.springframework.stereotype.Component,org.springframework.data.repository.Repository
